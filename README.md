@@ -9,3 +9,16 @@ O código principal encontra-se no arquivo "codigo_fonte.py", mas é preciso faz
 
 O arquivo "app.py" contém um aplicação local que usa como base o arquivo "modelo.joblib" que é gerado ao final da execução do arquivo "codigo_fonte"
 A aplicação é bem simples e possui apenas os campos para definir as métricas que serão usadas para calcular o preço da diária de um imóvel dentro do Rio de Janeiro.
+
+ROTEIRO:
+
+Importar Bibliotecas e Bases de Dados
+Consolidar Base de Dados
+Se tivermos muitas colunas, já vamos identificar quais colunas podemos excluir
+Tratar Valores Faltando
+Verificar Tipos de Dados em cada coluna
+Análise Exploratória e Tratar Outliers
+Encoding
+Modelo de Previsão
+Análise do Melhor Modelo
+Ajustes e Melhorias no Melhor Modelo
